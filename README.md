@@ -20,8 +20,6 @@
 <br clear="both">
 
 
-  ---
-
 <div align="left">  
   
   <h1>⛩️Estatisticas</h1>
